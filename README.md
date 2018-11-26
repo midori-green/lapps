@@ -1,4 +1,4 @@
-# Green Chain
+# Lapps
 
 ## Project setup
 ```
